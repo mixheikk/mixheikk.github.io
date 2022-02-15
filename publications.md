@@ -4,6 +4,9 @@ title: Publications
 permalink: /Publications/
 ---
 
+[Koskela, **Heikkilä** & Honkela 2021:
+Tight accounting in the shuffle model of differential privacy. On ArXiv.
+](https://arxiv.org/abs/2106.00477)
 
 [**Heikkilä**, Koskela, Shimizu, Kaski & Honkela 2020:
 Differentially private cross-silo federated learning. On ArXiv.
