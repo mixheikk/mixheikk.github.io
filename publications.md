@@ -4,6 +4,10 @@ title: Publications
 permalink: /Publications/
 ---
 
+[**Heikkilä**, Ashman, Swaroop, Turner & Honkela 2022:
+Differentially private partitioned variational inference. On ArXiv.
+](https://arxiv.org/abs/2209.11595)
+
 [Koskela, **Heikkilä** & Honkela 2021:
 Tight accounting in the shuffle model of differential privacy. On ArXiv.
 ](https://arxiv.org/abs/2106.00477)
