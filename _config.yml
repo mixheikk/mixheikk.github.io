@@ -24,7 +24,6 @@ description: >- # this means to ignore newlines until "baseurl:"
     Machine learning, usually with privacy, Bayesian statistics, Python
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: mixheikk1
 github_username:  mixheikk
 
 
