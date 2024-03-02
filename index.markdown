@@ -9,5 +9,5 @@ layout: page
 
 I'm an associate machine learning researcher at Telefónica Research, Barcelona. My research is mostly focused on trustworthy machine learning, especially on privacy-preserving (differentially private) machine learning. I'm also interested in learning from distributed data, e.g., federated learning, as well as Bayesian learning. I received my PhD in 2023 from the Department of Statistics, University of Helsinki, Finland.
 
- <a href="{{ site.url }}/filut/cv_short.pdf">You can find my CV here.</a> 
+ <a href="{{ site.url }}/filut/CV_short.pdf">You can find my CV here.</a> 
 
