@@ -21,11 +21,10 @@
 title: Mikko Heikkilä
 email: mixheikk@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-    Machine learning, usually with privacy, Bayesian statistics, Python
+    Machine learning, usually with privacy, distributed learning, Bayesian statistics, Python
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  mixheikk
-
 
 # Build settings
 theme: minima

@@ -5,10 +5,9 @@
 layout: page
 ---
 
-
 <img style="float: left; padding-right: 15px" img src= "{{ site.url }}/assets/img/MH.jpg" alt="drawing" width="100"/>
 
-I'm a statistical machine learning PhD student at University of Helsinki, Finland. I've mostly focused on privacy-preserving (differentially private) machine learning, Bayesian statistics, and federated learning. I'm also interested in lots of other stuff, but generally lack the time to actually do much about it.
+I'm an associate machine learning researcher at Telefónica Research, Barcelona. My research is mostly focused on trustworthy machine learning, especially on privacy-preserving (differentially private) machine learning. I'm also interested in learning from distributed data, e.g., federated learning, as well as Bayesian learning. I received my PhD in 2023 from the Department of Statistics, University of Helsinki, Finland.
 
- <a href="{{ site.url }}/filut/cv.pdf">You can find my CV here.</a> 
+ <a href="{{ site.url }}/filut/cv_short.pdf">You can find my CV here.</a> 
 

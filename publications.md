@@ -4,13 +4,13 @@ title: Publications
 permalink: /Publications/
 ---
 
-[**Heikkilä**, Ashman, Swaroop, Turner & Honkela 2022:
-Differentially private partitioned variational inference. On ArXiv.
-](https://arxiv.org/abs/2209.11595)
+[**Heikkilä**, Ashman, Swaroop, Turner & Honkela 2023:
+Differentially private partitioned variational inference. In TMLR.
+](https://openreview.net/forum?id=55BcghgicI)
 
-[Koskela, **Heikkilä** & Honkela 2021:
-Tight accounting in the shuffle model of differential privacy. On ArXiv.
-](https://arxiv.org/abs/2106.00477)
+[Koskela, **Heikkilä** & Honkela 2023:
+Numerical accounting in the shuffle model of differential privacy. In TMLR (Featured certification).
+](https://openreview.net/forum?id=11osftjEbF)
 
 [**Heikkilä**, Koskela, Shimizu, Kaski & Honkela 2020:
 Differentially private cross-silo federated learning. On ArXiv.
@@ -29,8 +29,6 @@ Differentially private Bayesian learning on distributed data.
 In NeurIPS '17.](https://papers.nips.cc/paper/2017/hash/dfce06801e1a85d6d06f1fdd4475dacd-Abstract.html)
 
 
+### Dissertation
 
-
-
-
-
+My PhD thesis <a href="{{ site.url }}/filut/phd_thesis.pdf">"Differentially private and distributed Bayesian learning"</a> has been accepted with distinction.
