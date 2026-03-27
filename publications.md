@@ -4,9 +4,10 @@ title: Publications
 permalink: /Publications/
 ---
 
+[Rehn, Zhao, **Heikkilä** & Honkela 2026: On Optimal Hyperparameters for Differentially Private Deep Transfer Learning. In ICLR '26.](https://openreview.net/forum?id=V3fEo612nE)
 
 [Tobaben, Alrawajfeh, Klasson, **Heikkilä**, Solin & Honkela 2025:
-Differential Privacy in Continual Learning: Which Labels to Update?. On ArXiv.](https://arxiv.org/abs/2411.04680)
+Differential Privacy in Continual Learning: Which Labels to Update? On ArXiv.](https://arxiv.org/abs/2411.04680)
 
 [Zhao, Rehn, **Heikkilä**, Tajeddine & Honkela 2025:
 Mitigating disparate impact of differentially private learning through bounded adaptive clipping. On ArXiv.](https://arxiv.org/abs/2506.01396)
